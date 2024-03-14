@@ -1,4 +1,4 @@
-oskour & ALED
+oskour & ALED & OMG
 # simple-java-maven-app
 
 This repository is for the
